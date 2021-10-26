@@ -1,0 +1,4 @@
+1. Why we dropped? What is difficulty?
+2. Why this project?
+3. How is this different from previous one?
+4. What is assurity of its completion?
