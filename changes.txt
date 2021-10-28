@@ -1,4 +1,11 @@
 1. Why we dropped? What is difficulty?
+=> This is a CNN computer vision model. Implementing this is Hadoop/Spark system is very difficult. PySpark libraries are available but data processing is very challenging with respect to image/video data. 
+
 2. Why this project?
+=> This is a famous customer churn Data Science project. So a lot of materials are available with respect to data processing and data modelling. With help of resources, it will be easy to implement the map reduce program for the same.
+
 3. How is this different from previous one?
-4. What is assurity of its completion?
+=> There is a big difference between this one and earlier one. Earlier one is an AI based Computer Vision project which involves image data preprocessing and dynamic video data handling for predictions. This one is Machine Learning based Data Science project which involves data preprocessing dealing with simple data which can be preprocessed with techniques like Statistics, etc. 
+
+4. What is assured of its completion?
+=> As mentioned, with respect to huge available materials, there will be no challenges with respect to Data Science tasks. Dealing an AI project like computer vision in Python is very straight forward as compared with PySpark. Whereas this Data Science project is as easier to implement in PySpark as in Python.
